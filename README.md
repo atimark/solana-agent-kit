@@ -182,6 +182,7 @@ The toolkit relies on several key Solana and Metaplex libraries:
 - @solana/spl-token
 - @metaplex-foundation/mpl-token-metadata
 - @metaplex-foundation/mpl-core
+
 - @metaplex-foundation/umi
 
 ## Contributing
